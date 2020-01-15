@@ -1,0 +1,54 @@
+Producent;Model;Cena;Waga;MaxISO;TypGwintu;CzyObiektywWbudowany;CzyAnalogowy;CzyDoSportu;CzyDoFilmow
+Canon;EOS 2000D;1250;475;6400;EF/EF-S;0;0;0;0
+Canon;EOS 4000D;950;436;6400;EF;0;0;1;1
+Canon;EOS 200D;1830;454;25600;EF;0;0;0;0
+Canon;EOS 250D;2100;449;25600;EF;0;0;0;1
+Canon;EOS 800D;2200;485;25600;EF;0;0;1;1
+Canon;EOS 6D Mark II;5300;685;40000;EF;0;0;1;0
+Canon;EOS 80D;3500;650;16000;EF;0;0;1;1
+Canon;EOS 7D Mark II;4800;820;16000;EF;0;0;0;0
+Canon;EOS 77D;2700;493;25600;EF;0;0;0;0
+Canon;EOS-1D X Mark II;23000;1340;51200;EF;0;0;0;1
+Canon;EOS 5D Mark IV;9900;1180;6400;EF;0;0;0;0
+Canon;EOS 5DS;10500;810;1600;EF;0;0;1;1
+Nikon;D850;12000;915;25600;Nikon F-mount;0;0;0;1
+Nikon;D7500;3400;640;51200;Nikon F-mount;0;0;0;1
+Nikon;D5600;2100;415;25600;Nikon F-mount;0;0;0;0
+Nikon;D500;3500;860;51200;Nikon F-mount;0;0;1;0
+Nikon;D750;4300;750;12800;Nikon F-mount;0;0;0;1
+Nikon;D7200;3200;765;25600;Nikon F-mount;0;0;0;0
+Nikon;D810;8500;980;12800;Nikon F-mount;0;0;1;0
+Nikon;D610;3500;850;25600;Nikon F-mount;0;0;1;1
+Nikon;DF;10500;710;12800;Nikon F-mount;0;0;1;1
+Olympus;E-M1X;10000;997;25600;Micro Four Thirds;0;0;0;0
+Olympus;E-M1 Mark II;6500;574;25600;Micro Four Thirds;0;0;1;1
+Olympus;E-M5 Mark III;5400;414;25600;Micro Four Thirds;0;0;0;1
+Olympus;E-M5 Mark II;2800;469;25600;Micro Four Thirds;0;0;0;0
+Olympus;E-M10 Mark II;2600;390;25600;Micro Four Thirds;0;0;1;1
+Olympus;E-M10 Mark III;2500;410;25600;Micro Four Thirds;0;0;0;1
+Praktica;Nova B;250;370;1600;M42;0;1;1;0
+Praktica;IV;250;362;1600;M42;0;1;0;0
+Praktica;Super TL;100;440;1600;M42;0;1;1;0
+Praktica;LB2;300;398;1600;M42;0;1;1;0
+Praktica;LLC;200;410;1600;M42;0;1;0;0
+Praktica;MTL 5;450;415;1600;M42;0;1;0;0
+Praktica;PLC 3;250;378;1600;PB;0;1;1;0
+Praktica;BX 20;300;312;1600;PB;0;1;1;0
+Zenit;E;50;320;1600;M42;0;1;0;0
+Zenit;TTL;100;400;1600;M42;0;1;0;0
+Zenit;ET;70;390;1600;C;0;1;0;0
+Zenit;12XP;50;280;1600;M42;0;1;0;0
+Zenit;122;170;345;1600;M42;0;1;1;0
+Zenit;C;200;360;1600;M42;0;1;1;0
+Smena;8M;50;289;1600;-;1;1;0;0
+Smena;8;40;340;1600;-;1;1;1;0
+Smena;6;40;217;1600;-;1;1;0;0
+Smena;2;80;270;1600;-;1;1;0;0
+Smena;Symbol;40;305;1600;-;1;1;1;0
+Rolleicord;TLR;700;750;1600;-;1;1;0;0
+Rolleicord;DRP;800;814;1600;-;1;1;1;0
+Pentax;ME Super;350;265;1600;K;0;1;1;0
+Pentax;Spotmatic;90;307;1600;K;0;1;1;0
+Pentax;SP 1000;150;287;1600;K;0;1;0;0
+Pentax;MZ6;200;312;1600;K;0;1;0;0
+Pentax;SFX;120;320;1600;K;0;1;0;0
